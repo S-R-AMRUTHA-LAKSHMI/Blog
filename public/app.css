@@ -1,0 +1,26 @@
+i .icon {
+    font-size: 2rem;
+    size: 30px;
+    
+  }
+  body {
+    background: rgb(139, 139, 139);
+    background-image: url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  .container.main {
+    padding-top: 20px;
+  }
+  div #indexbody {
+    padding-left: 50%;
+  }
+  .meta {
+    float: right;
+  }
+  h1 {
+    color: brown;
+  }
+  #delete {
+    display: inline;
+  }
